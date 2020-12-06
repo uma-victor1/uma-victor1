@@ -1,16 +1,29 @@
-### Hi there 👋
+![Imgur](https://i.imgur.com/nzL5lgH.jpg)
+<h2> Hi there I am Uma Victor! </h2>
 
-<!--
-**uma-victor1/uma-victor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Mail](https://img.shields.io/badge/Mail-umavictor11@gmail.com-red)](mailto:umavictor11@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-JS_Evangelist-blue)](https://twitter.com/JS_Evangelist)
+[![Blog](https://img.shields.io/badge/Blog-codingbuddy.hashnode.dev-brightgreen)](https://codingbuddy.hashnode.dev/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const UmaVictor = {
+  title: 'Web Developer',
+  city: 'Port-Harcourt, Nigeria',
+  interests: [
+    'Frontend Development',
+    'Anime',
+    'Reading',
+    'Blogging',
+  ],
+  technologies: [
+      'vue',
+      'tailwindcss',
+      'Webpack',
+      'Javascript',
+      'SASS/SCSS',
+  ],
+}
+```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=uma-victor1&show_icons=true" alt="uma-victor1" /> 
+</p>
