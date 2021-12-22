@@ -19,6 +19,7 @@ const UmaVictor = {
     'Blogging',
   ],
   technologies: [
+      'React'
       'vue',
       'tailwindcss',
       'Webpack',
