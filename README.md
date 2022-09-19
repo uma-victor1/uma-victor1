@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/nzL5lgH.jpg)
+![Imgur](https://i.imgur.com/ZYEBNdL.jpg)
 <h2> Hi there I am Uma Victor! </h2>
 
 [![Mail](https://img.shields.io/badge/Mail-umavictor11@gmail.com-red)](mailto:umavictor11@gmail.com)
