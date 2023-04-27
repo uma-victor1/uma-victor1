@@ -6,6 +6,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-victor1" alt="uma-victor1" /> </p>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uma-victor1&show_icons=true" alt="uma-victor1" /> 
-</p>
